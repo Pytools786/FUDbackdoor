@@ -15,6 +15,10 @@ backdoor.py file runs on target computer and gives the reverse connection to ser
     2) then convert the backdoor.py to exe using pyinstaller
     3) listen for incoming connection using server.py
     4) run the backdoor on any system
+    
+#poc:
+
+https://www.instagram.com/p/CMpDHkenGDE/
 
 
 
